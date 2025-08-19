@@ -6,14 +6,12 @@
 
 Ask questions or become a contributor by sending us your github account name
 
-[Element](https://element.io/) account @devcloudforest:matrix.org
-
-[Instagram](https://www.instagram.com/dev.cloudforest/)
+* [Element](https://element.io/) account @devcloudforest:matrix.org
+* [Instagram](https://www.instagram.com/dev.cloudforest/)
 
 Support us:
-[Buy me a coffee](buymeacoffee.com/crslancpln)
-
-[subscribe youtube channel for free](https://www.youtube.com/@devcloudforest)
+* [Buy me a coffee](buymeacoffee.com/crslancpln)
+* [subscribe youtube channel for free](https://www.youtube.com/@devcloudforest)
 
 <!--
 **crslancpl/crslancpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
