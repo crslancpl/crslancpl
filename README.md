@@ -8,6 +8,7 @@ Ask questions or become a contributor by sending us your github account name
 
 * [Element](https://element.io/) account @devcloudforest:matrix.org
 * [Instagram](https://www.instagram.com/dev.cloudforest/)
+* [Discord](https://discord.com) account devcloudforest
 
 Support us:
 * [Buy me a coffee](buymeacoffee.com/crslancpln)
